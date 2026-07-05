@@ -26,7 +26,7 @@
 
 Full-Stack Developer specialized in **scalable SaaS platforms, backend systems, and production-grade architectures**.
 
-I design and build real-world digital products — from system architecture to deployment — with a strong focus on **performance, scalability, and business impact**.
+I design and build real-world digital products from system architecture to deployment with a strong focus on **performance, scalability, and business impact**.
 
 🎓 Master’s Degree in AI & Big Data (ESTIA, France)  
 🌍 Based in Madagascar | Working internationally
