@@ -1,5 +1,5 @@
 <h1 align="center">Faniry Rabemananjara</h1>
-<h3 align="center">Full-Stack Developer • SaaS Engineer • Freelance</h3>
+<h3 align="center">Full-Stack Developer • SaaS Engineer • System Architect</h3>
 
 <p align="center">
   <a href="mailto:faniry.zo.rabemananjara@gmail.com">
@@ -24,142 +24,148 @@
 
 ## 🚀 About Me
 
-Full-Stack Developer specialized in building **production-ready SaaS platforms**, web & mobile applications, and scalable backend systems.
+Full-Stack Developer specialized in **scalable SaaS platforms, backend systems, and production-grade architectures**.
 
-I help businesses, startups, and organizations **turn ideas into reliable digital products** — from architecture design to deployment.
+I design and build real-world digital products — from system architecture to deployment — with a strong focus on **performance, scalability, and business impact**.
 
-🎓 Master’s Degree in AI & Big Data (ESTIA, Bordeaux)  
-🌍 Based in Antananarivo, Madagascar
+🎓 Master’s Degree in AI & Big Data (ESTIA, France)  
+🌍 Based in Madagascar | Working internationally
 
 ---
 
-## 🧠 What I Do Best
+## 🏢 SaaS Ecosystem (L3M Holding)
 
-- 🚀 Build full SaaS platforms (frontend + backend + DB)
-- ⚙️ Design scalable backend architectures
-- 📊 Optimize performance & user experience
-- 🔐 Implement secure APIs and authentication systems
-- 📦 Deliver production-ready applications
-- 🧩 Translate business needs into technical solutions
+I contribute to a production ecosystem of interconnected SaaS platforms focused on mobility, education, HR, real estate, and digital services.
+
+Each product is deployed, used in production, and integrated into a scalable infrastructure.
+
+### 🚗 Démarche Permis Rapide  
+https://www.demarchepermisrapide.fr/  
+Lead generation & driving license booking platform  
+• Funnel optimization & CRM system  
+• Stripe / Sogecommerce payments  
+• Lead tracking & automation  
+
+### 🎓 C’Permis Formation  
+https://www.cpermisformation.fr/  
+Training & education SaaS platform  
+• Booking system & enrollment flows  
+• Internal CRM & email automation  
+• Notification pipelines  
+
+### 🌍 Global Work Hub  
+https://www.global-work-hub.com/  
+International HR & business services SaaS  
+• Quote simulation engine  
+• Multi-service offer system  
+• Analytics & lead generation  
+
+### 🏡 Green Cottage  
+https://l3m-greencottage.fr/  
+Luxury property management SaaS  
+• Booking system & admin dashboard  
+• Pricing & media management  
+• Production deployment (Docker)  
+
+### 🏛️ Global Key Partners  
+https://globalkey-partners.com/  
+Corporate HR & recruitment platform  
+• Multi-language corporate system  
+• CI/CD (Docker + Nginx + VPS)  
+• SEO & performance optimization  
+
+### 🏨 Prime Host  
+https://primehost.fr/  
+Luxury concierge & property operations platform  
+• Booking workflows  
+• Cleaning & check-in/out automation  
+• Revenue optimization system  
+
+### 🏠 MyDomii6l  
+https://mydomii6l.com/  
+Real estate SaaS platform  
+• Property listing & booking system  
+• Backend API integration  
+
+### 🏥 Kemyadom Services  
+https://www.kemyadom-services.fr/  
+Home care & service management platform  
+• Scheduling system  
+• Client management dashboard  
+• Workflow automation  
+
+### 🇲🇦 EBHI  
+https://ebhi.ma/  
+Business services platform (Morocco)  
+• Service delivery system  
+• Landing pages & conversion funnels  
+
+### 📣 Digital Media Projects  
+https://digital-media-projects.fr/  
+Marketing & automation platform  
+• Lead generation funnels  
+• Email automation (Mailtrap / SMTP)  
+• Ads tracking (Meta, GA4, GTM)  
+
+---
+
+## 🧠 Engineering Focus
+
+- SaaS architecture (multi-project scaling)
+- Backend systems (NestJS, Prisma, PostgreSQL)
+- Frontend (Vue 3, Nuxt, Next.js)
+- Payment systems (Stripe, Sogecommerce)
+- CI/CD & deployment (Docker, VPS, Nginx)
+- Analytics & tracking systems
+- CRM & automation pipelines
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nextjs,ts,nodejs,nestjs,laravel,flutter,postgres,mysql,firebase,docker,nginx,git" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,nextjs,ts,nodejs,nestjs,prisma,postgres,mysql,firebase,docker,nginx,git,flutter" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faniry-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faniry-dev&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faniry-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 💼 Featured Projects
-
-### 🏡 Green Cottage  
-Full-stack platform with admin dashboard, media management, and production deployment  
-**Stack:** Vue 3 • NestJS • Prisma • PostgreSQL • Docker  
-🔗 [Live Demo](https://l3m-greencottage.fr)
-
-### 🚗 Démarche Permis Rapide  
-Conversion-focused booking & lead generation platform  
-**Stack:** Vue 3 • NestJS • PostgreSQL • Analytics  
-🔗 [Live Demo](https://www.cpermisformation.fr)
-
-### 🌍 Global Work Hub  
-Business-oriented SaaS platform with scalable backend architecture  
-**Stack:** Vue • NestJS • Prisma • PostgreSQL  
-
-### 📊 Scrumizy  
-Collaborative project management SaaS  
-**Stack:** Vue • NestJS • PostgreSQL  
-
-### 📱 FidMax  
-Multi-platform loyalty application  
-🔗 [Live Demo](http://fidmax.infy.uk/)
-
-### 🧘 Health in Motion  
-Time & yoga management platform  
-🔗 [Live Demo](https://project-tranquill.vercel.app/)
-
-### 🍕 Pizza House Free  
-Restaurant showcase website  
-🔗 [Live Demo](https://restauration-pizzahouse.vercel.app/)
-
-### 🏛️ Assurance Decennale  
-B2B insurance solution  
-🔗 [Live Demo](https://assurance-decennale.vercel.app/)
-
-### 🏫 Prytane  
-Parish community management mobile app  
-🔗 [Live Demo](https://www.prytane.fr/)
-
-### 🌲 Wildfire Alert System  
-AI-powered wildfire prevention  
-🔗 [Live Demo](https://aroafodata.gov.mg/)
-
----
-
-## 🧑‍💻 Professional Experience
+## 💼 Experience
 
 ### Full-Stack Developer — L3M Holding  
 **2025 – Present**
-- SaaS development and platform migration
-- Architecture design and optimization
-- Production deployment
+- SaaS architecture & system scaling
+- Multi-project infrastructure management
+- Payment systems & production deployment
 
 ### Web & Mobile Developer — Synergie Mad  
 **2023 – 2025**
-- Delivered multiple production applications
-- Managed full lifecycle (design → deployment)
-- Multi-stack expertise (Flutter, Laravel, Next.js)
+- Full product lifecycle delivery
+- Multi-stack development (Flutter, Laravel, Next.js)
 
 ### AI Engineer — Ministry of Environment  
 **2023**
-- AI-based wildfire monitoring system
-- Python + data processing + visualization
-
-### FullStack Developer Consultant — ONG CID  
-**2021 – 2023**
-- Website redesign and CMS (WordPress)
-- Project architecture and Draw.io planning
+- Wildfire detection system using AI & data pipelines
 
 ---
 
 ## 💼 Freelance Services
 
-I work with startups, businesses, and organizations to deliver:
-
-- 🚀 SaaS platform development
-- 📱 Web & mobile applications
-- ⚙️ Backend architecture & APIs
-- 📊 Data & AI integration
-- 🔐 Secure and scalable systems
-- 🎯 Performance optimization
+- SaaS platform development
+- Backend architecture & APIs
+- Web & mobile applications
+- Payment & subscription systems
+- Analytics & tracking systems
+- Production deployment & scaling
 
 ---
 
-## 📈 Why Work With Me
+## 📈 Engineering Philosophy
 
-- ✔️ Production mindset (not just demos)
-- ✔️ Full-stack autonomy
-- ✔️ Strong architecture thinking
-- ✔️ Business-oriented approach
-- ✔️ Fast and reliable delivery
+- Production-first mindset
+- Clean architecture & scalability
+- Business-driven engineering decisions
+- Fast delivery with stable systems
+- Real-world product focus
 
 ---
 
@@ -167,10 +173,10 @@ I work with startups, businesses, and organizations to deliver:
 
 - 📧 faniry.zo.rabemananjara@gmail.com  
 - 📞 +261 34 80 375 94  
-- 🌍 Madagascar  
+- 🌍 Madagascar | International available  
 
 ---
 
 ## 🔥 Motto
 
-> Build real products. Solve real problems. Ship clean code.
+> Build systems that scale. Ship products that matter. Think like an architect, not just a developer.
